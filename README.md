@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Kaçar</h1>
-<h3 align="center">A Developer in Turkey: Working with Backend C# and Java</h3>
+<h3 align="center">A Developer in Turkiye: Working with Backend C# and Java</h3>
 
 <p align="center">
   🌐 <strong>My Website:</strong> <a href="https://mertkacar.com" target="_blank">mertkacar.com</a>
